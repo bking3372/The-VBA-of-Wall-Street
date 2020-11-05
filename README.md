@@ -2,7 +2,7 @@
 
 Objective:  Use VBA scripting to analyze stock market data.
 
-Step1:  Create a script to loop through all the stock for one year and output the following:
+Step1:  Create a script to loop through all the stocks for one year and output the following:
   -  the ticker symbol
   -  the yearly change from the opening price at the beginning of a given year to the closing price at the end of that year
   -  the percent change from the opening price at the beginning of a give year to the closing price at the end of that year

@@ -10,7 +10,7 @@ Step1:  Create a script to loop through all the stocks for one year and output t
   
   Apply conditional formatting to highlight positive changes in green and negative changes in red.
   
-Step2:  Return the stock with the greatest percent increase, the stock with the greatest percent decrease, and the stock with the greatest total volume.
+Step2:  For each year, return the stock with the greatest percent increase, the stock with the greatest percent decrease, and the stock with the greatest total volume.
 
 
 The VBA script will run on every worksheet with one click.
